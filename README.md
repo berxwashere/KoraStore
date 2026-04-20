@@ -71,21 +71,21 @@ lib/
 
 ## 📸 Screenshots
 
-| Login Screen | Home Feed | Product Detail |
+| Splash Screen | Login Screen | Home Feed |
 | :---: | :---: | :---: |
-| ![Login] | ![Home] | ![Product] |
+| ![Splash] | ![Login] | ![Home] |
 
-| Shopping Cart | Profile | Favorites |
-| :---: | :---: | :---: |
-| ![Cart] | ![Profile] | ![Favorites] |
+| Product Detail | Shopping Cart | Favorites | User Profile |
+| :---: | :---: | :---: | :---: |
+| ![Detail] | ![Cart] | ![Favorites] | ![Profile] |
 
-<!-- [Login]: https://via.placeholder.com/200x400?text=Login+Screen
-[Home]: https://via.placeholder.com/200x400?text=Home+Feed
-[Product]: https://via.placeholder.com/200x400?text=Product+Detail
-[Cart]: https://via.placeholder.com/200x400?text=Shopping+Cart
-[Profile]: https://via.placeholder.com/200x400?text=User+Profile
-[Favorites]: https://via.placeholder.com/200x400?text=Wishlist -->
-
+[Splash]: assets/Android_screenshots/Splash_screen.png
+[Login]: assets/Android_screenshots/Login_screen.png
+[Home]: assets/Android_screenshots/Home_feed.png
+[Detail]: assets/Android_screenshots/Product_detail.png
+[Cart]: assets/Android_screenshots/Cart_screen.png
+[Favorites]: assets/Android_screenshots/Favorites_screen.png
+[Profile]: assets/Android_screenshots/Profile_screen.png
 
 ---
 
@@ -118,5 +118,5 @@ flutter run
 
 ---
 
-## 🎓 Purpose
+## 🎯 Purpose
 This project was developed as a comprehensive exercise to master the core principles of Flutter and to apply modern mobile application architecture in a professional, real-world scenario.
